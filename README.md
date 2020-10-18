@@ -1,4 +1,4 @@
-# Travel Insurance Claim Prediction
+# Pokemon Data
 Travel Insurance Hackathon
 
 Team: Wanderlust Data
