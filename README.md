@@ -40,4 +40,4 @@ The evaluation metric for this task will be `precision_score`. Read up about it 
 ## Submission Format
 
 The user has to submit a csv file with the ID and Claim label. Sample submission file has been given to you. You can refer the sample submission file.
-         
+          
