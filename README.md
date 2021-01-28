@@ -5,8 +5,6 @@ Team: Wanderlust Data
 
 Organization: Greyatom Hackathon
 
-Contributors: [Ashreet Sangotra](https://github.com/ashreetsangotra), [Niyati Bhayani](https://github.com/niyati-bhayani), [Samira Nigrel](https://github.com/samira-nigrel) and [Manthan Gandhi](https://github.com/manthangandhi)
-
 ![](https://www.acko.com/wp-content/uploads/2018/12/How-to-claim-travel-insurance-1024x683.jpg)
 
 
